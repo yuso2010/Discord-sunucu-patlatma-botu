@@ -2,4 +2,4 @@ rar dosyasının içindeki klasörü isterseniz dışa çıkartıp rar dosyasın
 
 ayarlar.json dosyasının içindeki "token": "", yazısının sonundaki tırnak işaretlerinin içine botunuzun tokenini yazın
 
-geriye kalanını kendiniz halledebilirsiniz
+ilerde videolu anlatım gelebilir
